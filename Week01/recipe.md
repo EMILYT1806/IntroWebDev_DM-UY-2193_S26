@@ -2,7 +2,6 @@
 
 This contains the ingredients and steps for baking a sponge cake. 
 For additional guidance, watch the suggested tutorial: [Tutorial Link](https://www.youtube.com/watch?v=HKe8af9xsiE)
----
 
 ## Ingredients (For a 6-inch cake pan)
 - 2 Large eggs
