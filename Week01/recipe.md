@@ -1,19 +1,16 @@
-# Fruit Sponge Cake Recipe
-![alt text](SpongeBirthdayCake.jpg)
----
+# Fruit Sponge Cake Recipe 
 
 This contains the ingredients and steps for baking a sponge cake. 
-
-**For additional guidance, watch the suggested tutorial:**[LINK](https://www.youtube.com/watch?v=HKe8af9xsiE)
+For additional guidance, watch the suggested tutorial: [Tutorial Link](https://www.youtube.com/watch?v=HKe8af9xsiE)
 ---
 
 ## Ingredients (For a 6-inch cake pan)
-- [] 2 Large eggs
-- [] 70 g Granulated sugar
-- [] 65 g Cake flour
-- [] 10 mL Milk 
-- [] 20 mL Oil
-- [] 1/8 tsp Vanilla Extract
+- 2 Large eggs
+- 70 g Granulated sugar
+- 65 g Cake flour
+- 10 mL Milk 
+- 20 mL Oil
+- 1/8 tsp Vanilla Extract
 
 ## Steps
 1. Preheat the oven 
