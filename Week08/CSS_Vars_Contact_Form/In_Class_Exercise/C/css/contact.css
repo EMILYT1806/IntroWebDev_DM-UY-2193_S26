@@ -1,14 +1,12 @@
-/* Base styles */
-      @import url(vars.css);
+      @import url('vars.css') ;
 
       body {
-        font-family: var(--ff-body);
+      font-family: var(--ff-body);
       }
-      
+
       h1 {
         font-family: var(--ff-heading);
       }
-
 
       .container {
         width: 50%;
@@ -48,7 +46,7 @@
         height: 16rem;
         border-radius: 0.25rem;
         padding: 1rem;
-      } 
+      }
 
       .button-bar {
         display: flex;
@@ -69,4 +67,3 @@
       .btn-dark:hover {
         background-color: var(--c-bg-btn-hover);
       }
-

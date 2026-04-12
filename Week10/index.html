@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>JS Objects Lesson</title>
+  </head>
+  <body>
+    <h1>Open the Console to see your output!</h1>
+
+    <script>
+      const person = {
+        name: 'Alex',
+        age: 22,
+        isStudent: true, 
+      };
+
+      const movie = {
+        title: "Inception",
+        year: 2010, 
+        director: "Christopher Nolan"
+      };
+
+      console.log(movie.title);
+      console.log(movie["director"]);
+      let field = "year";
+      console.log(movie[field]);
+
+      console.log(person);
+
+      person.age = 23;
+      console.log(person.age);
+
+      person.city = "New York";
+      console.log(person.city);
+
+      delete person.isStudent;
+      console.log(person);
+
+
+
+
+      const dog = {
+        name: "Biscuit", 
+        breed: "Beagle",
+        bark() {
+            console.log(this.name + " says: Woof!");
+        },
+      };
+
+      dog.bark()
+      dog.describe = function () {
+        console.log(this.name + "is a " + this.breed);
+      };
+
+      dog.describe()
+
+      console.log(Object.keys(person));
+      console.log(Object.values(person));
+      console.log(Object.entries(person));
+
+
+    </script>
+  </body>
+</html>
